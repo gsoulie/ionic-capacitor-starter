@@ -24,8 +24,8 @@ System:
 
 ## Features
 
-* Login logic
-* Introduction page with slider (**need to be updated with Ionic 6**)
+* Login logic (with dummy api)
+* Introduction page with slider (**ion-slide need to be updated with the upcoming Ionic 6**)
 * Guards to protect app, login and manage Introduction page first display
 * Tabs
 
