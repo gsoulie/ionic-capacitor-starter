@@ -29,7 +29,7 @@ System:
 * Guards to protect app, login and manage Introduction page first display
 * Tabs
 
-## Improvment
+## Improvments
 
 * Add http helper service
 * Add Offline detection
